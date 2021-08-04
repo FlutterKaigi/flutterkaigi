@@ -1,9 +1,23 @@
 # Code of Conduct
 
-FlutterKaigi is Flutter's developer conference in Japan. Starting with the event planned at this conference, users who live in web apps, desktop apps, etc., mainly mobile apps, gather together to exchange knowledge in various fields, connect with new friends and communities, work and business opportunities. The goal is to create a place where you can increase the number of people.
+FlutterKaigi is a conference held in Japan for the purpose of sharing and communicating Flutter technical information. We (FlutterKaigi Executive Committee) strive to create a safe and welcoming venue for all participants.
 
-To achieve this goal, all participants must agree to the Code of Conduct. If an act that prioritizes the interests of an individual (example below) is observed, the person may not be able to attend the conference because he / she may not be able to achieve this goal. We ask for the cooperation of each and every one of us in order to maintain a safe environment for all.
+To do so, everyone who participates in FlutterKaigi is required to adhere to this Code of Conduct. We ask for the cooperation of all participants, including the audience, speakers, and host staff. Any of the following items will be treated as harassment (but not limited to this).
 
-Examples: Sales activities, recruitment activities, religious solicitations, network businesses, harassment, and other acts deemed to fall under these categories.
+- Invitation to religious groups including religious activities
+- Commercial activities such as sales, recruitment, promotion, advertising, solicitation, etc. that are unrelated to the purpose of the conference
+- Use of words with sexual meaning
+- Use of words that give an insulting and derogatory impression
+- Intimidation, stalking, stalking
+- Playback of inappropriate images, videos, recordings (sexual images, etc.)
+- Interfering with announcements and other events
+- Inappropriate physical contact
+- Sexual harassment not limited to these
 
-Formulated on August 4, 2021
+Speakers and host staff are also subject to this policy. The use of words with sexual meaning or inappropriate images is inappropriate in any announcement or online media such as Twitter.
+
+If you are instructed to stop harassing, you will be required to follow immediately. Participants who do not follow the rules are prohibited from leaving the venue or participating in future events as listeners, speakers, or staff at the discretion of the organizer.
+
+If you feel that you are being harassed or that someone else is being harassed, please contact the organizer staff or the contact person specified on the official website.
+
+Formulated on August 5, 2021
