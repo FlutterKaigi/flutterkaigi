@@ -1,6 +1,6 @@
 # FlutterKaigi
 
-This repository is a collection of volunteers related to FlutterKaigi.
+This repository is a collection of volunteers related to FlutterKaigi. Please check [here](./README.ja.md) for Japanese
 
 ## What's FlutterKaigi?
 
