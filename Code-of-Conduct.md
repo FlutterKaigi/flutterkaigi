@@ -8,7 +8,7 @@ To do so, everyone who participates in FlutterKaigi is required to adhere to thi
 - Commercial activities such as sales, recruitment, promotion, advertising, solicitation, etc. that are unrelated to the purpose of the conference
 - Use of words with sexual meaning
 - Use of words that give an insulting and derogatory impression
-- Intimidation, stalking, stalking
+- Intimidation, stalking
 - Playback of inappropriate images, videos, recordings (sexual images, etc.)
 - Interfering with announcements and other events
 - Inappropriate physical contact
