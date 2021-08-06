@@ -10,6 +10,10 @@ At this conference, we may ask you to register personal information such as your
 
 At this conference, personal information will be managed appropriately and will not be disclosed to third parties except in the following cases.
 
+- With the consent of the person
+- When disclosure / provision is requested based on laws and regulations
+- When entrusting all or part of the handling of personal information to the extent necessary for the operation of the conference
+
 If you wish to disclose, correct, add, delete, or suspend the use of your personal data, we will confirm your identity and respond promptly.
 
 ## Disclaimer
