@@ -19,5 +19,5 @@
 
 ### 動画に字幕を挿入する
 
- [Vrew]([https://vrew.voyagerx.com/ja/](https://vrew.voyagerx.com/ja/)) というツールを使用することで、動画に字幕を入れることができます。余裕のある方はご検討ください。
+ [Vrew](https://vrew.voyagerx.com/ja/) というツールを使用することで、動画に字幕を入れることができます。余裕のある方はご検討ください。
  
