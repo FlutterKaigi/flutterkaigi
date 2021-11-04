@@ -11,6 +11,7 @@
 	- 放送時の接続をスムーズに行うためです
 - [行動規範](https://flutterkaigi.github.io/flutterkaigi/Code-of-Conduct.ja.html) の遵守
 - 動画、スライドで利用する素材の著作権には十分にご注意ください
+	- ご自身が使用する意図がなかった音楽などでも問題になることがあります。テレビの音や戸外からの音にもご注意ください
 
 なお、イベント当日のタイムテーブルは[こちら](https://fortee.jp/flutterkaigi-2021/timetable) からご確認ください。
 
