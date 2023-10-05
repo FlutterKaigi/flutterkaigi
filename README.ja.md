@@ -19,3 +19,5 @@ FlutterKaigi は日本における Flutter の開発者向けカンファレン�
 - [プライバシーポリシー](https://flutterkaigi.jp/flutterkaigi/Privacy-Policy.ja.html) / [英語](https://flutterkaigi.jp/flutterkaigi/Privacy-Policy.html)
 - [イベント参加規約](https://flutterkaigi.jp/flutterkaigi/Terms-for-Join.ja.html)
 - [動画収録時の注意事項](https://flutterkaigi.jp/flutterkaigi/Precautions-for-Recording.ja.html)
+- [ロゴ利用のガイドライン](https://flutterkaigi.jp/flutterkaigi/Logo-Guidelines.ja.html)
+- [関連イベントのガイドライン](https://flutterkaigi.jp/flutterkaigi/Event-Guidelines.ja.html)
