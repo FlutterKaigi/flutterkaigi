@@ -12,6 +12,8 @@
 
 こちらに記載されてない、たとえば独自のグッズ作成、ロゴの改変（これら例示に限りません）は許可されていません。
 
+なお、Flutterおよび関連するロゴは、Google LLCの商標です。FlutterKaigiは、Google LLCとの提携および、Google LLCが後援しているものでもないことに御留意下さい。
+
 ### FlutterKaigi ロゴ例
 
 <img title='logo_banner.png' alt='logo_banner' src='./assets/logo_banner.png' width="1630" data-meta='{"width":1630,"height":371}'>
