@@ -67,3 +67,5 @@ OK4: FlutterKaigiライブビューイング
 ### その他、連絡事項
 
 ご不明点については、[相談窓口](https://docs.google.com/forms/d/e/1FAIpQLSemYPFEWpP8594MWI4k3Nz45RJzMS7pz1ufwtnX4t3V7z2TOw/viewform) よりお知らせください。
+
+2023年10月17日策定
