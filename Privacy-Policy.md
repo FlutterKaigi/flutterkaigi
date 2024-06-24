@@ -18,7 +18,7 @@ If you wish to disclose, correct, add, delete, or suspend the use of your person
 
 ## Offline Photo and Video Recording
 
-At this conference, we may record and photograph for the following purposes:
+At this conference, we may photograph and record for the following purposes:
 
 - Online streaming of presentations
 - Live updates on social media
