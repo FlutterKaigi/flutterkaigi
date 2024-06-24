@@ -24,7 +24,7 @@ At this conference, we may photograph and record for the following purposes:
 - Live updates on social media
 - Event reports
 
-If you do not wish to be recorded or photographed, please let us know in advance so we can accommodate your request. Additionally, please inform us if you do not wish to be included in group photos.
+If you do not want to be recorded or photographed, please let us know in advance so we can accommodate your request. Additionally, please inform us if you do not want to be included in group photos.
 
 ## Disclaimer
 
