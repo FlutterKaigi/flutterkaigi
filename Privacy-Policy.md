@@ -16,7 +16,7 @@ At this conference, personal information will be managed appropriately and will 
 
 If you wish to disclose, correct, add, delete, or suspend the use of your personal data, we will confirm your identity and respond promptly.
 
-## Offline Photo and Video Recording
+## Photographs and video recording at conference
 
 At this conference, we may photograph and record for the following purposes:
 
