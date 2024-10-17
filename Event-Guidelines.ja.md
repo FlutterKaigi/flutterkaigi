@@ -12,7 +12,7 @@ FlutterKaigiという名称利用は次のガイドラインを設けていま�
 
 * FlutterKaigiの表記は正しいですか？
 * FlutterKaigiとの関係性がわかりやすい位置に表記されていますか？
-* FlutterKaigi[ロゴ利用のガイドライン](https://flutterkaigi.jp/flutterkaigi/Logo-Guidelines.ja.html)に合致していますか？
+* FlutterKaigi[ロゴ利用のガイドライン](./Logo-Guidelines.ja.html)に合致していますか？
 * イベント説明文や表現は適切ですか（ネガティブなもの・関係者の誤解を与えるものとなっていませんか）？
 
 #### 1. 正しいFlutterKaigi表記の利用
