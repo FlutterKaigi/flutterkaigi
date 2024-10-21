@@ -16,7 +16,7 @@
 
 ### FlutterKaigi ロゴ例
 
-<img title='logo_banner.png' alt='logo_banner' src='./assets/logo_banner.png' width="1630" data-meta='{"width":1630,"height":371}'>
+<img title='logo_banner.png' alt='logo_banner' src='./assets/logo_banner.png' width="815" data-meta='{"width":1630,"height":371}'>
 
 ### その他、連絡事項
 
