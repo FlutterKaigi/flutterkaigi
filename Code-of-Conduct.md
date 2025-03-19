@@ -8,6 +8,7 @@ To do so, everyone who participates in FlutterKaigi is required to adhere to thi
 - Commercial activities such as sales, recruitment, promotion, advertising, solicitation, etc. that are unrelated to the purpose of the conference
 - Behavior with sexual meaning
 - Behavior that give an insulting and derogatory impression
+- violence, vandalism
 - Intimidation, stalking
 - Playback of inappropriate images, videos, recordings (sexual images, etc.)
 - Interfering with announcements and other events
