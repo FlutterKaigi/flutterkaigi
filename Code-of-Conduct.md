@@ -8,6 +8,7 @@ To do so, everyone who participates in FlutterKaigi is required to adhere to thi
 - Commercial activities such as sales, recruitment, promotion, advertising, solicitation, etc. that are unrelated to the purpose of the conference
 - Behavior with sexual meaning
 - Behavior that give an insulting and derogatory impression
+- Violence, vandalism
 - Intimidation, stalking
 - Playback of inappropriate images, videos, recordings (sexual images, etc.)
 - Interfering with announcements and other events
@@ -22,4 +23,4 @@ If you feel that you are being harassed or that someone else is being harassed, 
 
 Formulated on August 5, 2021
 
-Revised on July 8, 2023
+Revised on March 20, 2025
