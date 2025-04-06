@@ -19,23 +19,30 @@ FlutterKaigiという名称利用は次のガイドラインを設けていま�
 
 FlutterKaigiの名称を利用する場合、その表記に注意してください。揺れはNGとなります。
 
-OK1: FlutterKaigi 2023
-OK2: FlutterKaigi
+OK:
+- `FlutterKaigi 2023`
+- `FlutterKaigi`
 
-NG1: Flutter Kaigi - FlutterとKaigiの間にスペースがある
-NG2: Flutterkaigi - kが大文字ではない
-NG3: flutterkaigi - fおよびkが大文字ではない
-NG4: FlutterKaigi2023 - FlutterKaigiと2023の間にスペースがない
-NG5: 株式会社ABC x FlutterKaigi - 協業を想起する表現は不可（特別なパートナーシップがない限り）
+NG:
+- `Flutter Kaigi` : FlutterとKaigiの間にスペースがある
+- `Flutterkaigi` : kが大文字ではない
+- `flutterkaigi` : fおよびkが大文字ではない
+- `FlutterKaigi2023` : FlutterKaigiと2023の間にスペースがない
+- `株式会社ABC x FlutterKaigi` : 協業を想起する表現は不可（特別なパートナーシップがない限り）
 
 #### 2. FlutterKaigiとの関係性の明記
 
 イベントへの参加を検討する方々が誤解しないように、FlutterKaigiとの関係性を必ず明示、イベントページのファーストビューまたはイベント告知のトップに掲載してください。
 
-例：本イベントはFlutterKaigi 2023に協賛しているA社（、B社、C社）による主催（共催）です。
-等 - **協賛の事実および主催を明記する**。
+例：
+
+```
+本イベントはFlutterKaigi 2023に協賛しているA社（、B社、C社）による主催（共催）です。
+```
+上記例のように、**協賛の事実および主催を明記**してください。ただし、協賛を記載できる期間は年度内のみとします。（FlutterKaigi 2023協賛の場合は、2024/3/31までが掲載可能期間となります。）
 
 また、協賛の事実を伝えるためにFlutterKaigiのロゴをご利用いただけます。
+
 
 #### 3. FlutterKaigiロゴ加工の禁止・目的外利用の禁止
 
@@ -47,25 +54,25 @@ FlutterKaigiロゴは、FlutterKaigiへの協賛の事実を伝えることを�
 
 いずれのイベントでもコミュニティやスピーカーに対してのネガティブな表現、イベントの管理者や登壇者、協賛企業がFlutterKaigiの運営に関与しているとの誤解を与えうる表現は避けてください。
 
-NG例1：イベントタイトルを「FlutterKaigi Reject Con」とする - 一般にRejectはネガティブな意味合いを持つ言葉であるためNGです。FlutterKaigiのセッション採択は優劣をつけるものではありません。
+NG:
+- FlutterKaigi Reject Con
+    - 一般にRejectはネガティブな意味合いを持つ言葉であるためNGです。FlutterKaigiのセッション採択は優劣をつけるものではありません。
+- 惜しくも採択とならなかったセッションをご紹介します 
+    - 「惜しい」という表現は運営に関与していて採択結果がわかっているのかという疑念を与えてしまいます。
 
-NG例2：惜しくも採択とならなかったセッションをご紹介します - 「惜しい」という表現は運営に関与していて採択結果がわかっているのかという疑念を与えてしまいます。
+OK:
+- After FlutterKaigi勉強会
+- FlutterKaigiカンファレンスアプリ コードリーディング
+- FlutterKaigiセッション感想会
+- FlutterKaigiライブビューイング
 
 上記はFlutterKaigiの考え方を示す一例です。上記のとおりではないからOKというわけではありません。
 
-## 最後に
-
-下に示したようなタイトルについては問題ありません。ただし、独占的なご利用をお約束するものではありません（他の方々が真似するかもしれません）。
-
-OK1: After FlutterKaigi勉強会
-OK2: FlutterKaigiカンファレンスアプリ コードリーディング
-OK3: FlutterKaigiセッション感想会
-OK4: FlutterKaigiライブビューイング
-
 ただし、いずれもFlutterKaigi公式イベントと勘違いされないように（2. FlutterKaigiとの関係性の明記 等。これに限らない）よくガイドラインを読んでいただき、関連イベントを開催していただければ幸いです。
 
-### その他、連絡事項
+## その他、連絡事項
 
 ご不明点については、[相談窓口](https://docs.google.com/forms/d/e/1FAIpQLSemYPFEWpP8594MWI4k3Nz45RJzMS7pz1ufwtnX4t3V7z2TOw/viewform) よりお知らせください。
 
 2023年10月17日策定
+2025年4月6日改訂
