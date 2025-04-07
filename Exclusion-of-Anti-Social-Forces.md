@@ -1,4 +1,4 @@
-Exclusion of Anti-Social Forces
+# Exclusion of Anti-Social Forces
 FlutterKaigi recognizes the exclusion of anti-social forces as an important social responsibility. We hereby declare and pledge to comply with the following items now and in the future.
 
 We declare and warrant that we do not currently fall under, and will not in the future fall under, any of the following categories (collectively referred to as “Anti-Social Forces”)
