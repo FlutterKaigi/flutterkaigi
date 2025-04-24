@@ -18,6 +18,5 @@ FlutterKaigi は日本における Flutter の開発者向けカンファレン�
 - [行動規範](./Code-of-Conduct.ja.html) / [英語](./Code-of-Conduct.html)
 - [プライバシーポリシー](./Privacy-Policy.ja.html) / [英語](./Privacy-Policy.html)
 - [イベント参加規約](./Terms-for-Join.ja.html)
-<!-- - [動画収録時の注意事項](./Precautions-for-Recording.ja.html) -->
 - [ロゴ利用のガイドライン](./Logo-Guidelines.ja.html)
 - [関連イベントのガイドライン](./Event-Guidelines.ja.html)

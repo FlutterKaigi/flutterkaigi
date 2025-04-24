@@ -18,6 +18,5 @@ All following written by Japanese are available. Please take a moment to read th
 - [Code of Conduct](./Code-of-Conduct.ja.html) / [English](./Code-of-Conduct.html)
 - [Privacy Policy](./Privacy-Policy.ja.html) / [English](./Privacy-Policy.html)
 - [Terms for Join](./Terms-for-Join.ja.html)
-<!-- - [Precautions for Recording](./Precautions-for-Recording.ja.html) -->
 - [Logo Usage Guidelines](./Logo-Guidelines.ja.html)
 - [Related Event Guidelines](./Event-Guidelines.ja.html)

@@ -19,7 +19,7 @@
 - 顔出しする際はバーチャル背景の使用を必須でお願いします
   - 理由として背景に権利関係の問題があるものを写り込まさないためです
   - チェックの都合上、動画を通して背景の変更はしないにお願いします
-  - 基本的にこちらで用意した [バーチャル背景](./assets/virtual-bg/2022-image.png) ([Full HD 用](./assets/virtual-bg/2022-fullhd-image.png)) の使用をお願いします
+  - 基本的にこちらで用意した [バーチャル背景](./assets/virtual-bg/legacy/2022-image.png) ([Full HD 用](./assets/virtual-bg/legacy/2022-fullhd-image.png)) の使用をお願いします
     - 会社のバーチャル背景の使用可
     - 但し、権利関係の問題が発生した場合、FlutterKaigiは一切責任を負いかねます
 なお、イベント当日のタイムテーブルは[こちら](https://fortee.jp/flutterkaigi-2022/timetable) からご確認ください。
