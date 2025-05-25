@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
 
+vendor
+_site
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -10,6 +13,7 @@
 !.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
+.bundle/
 .history/
 
 # Built Visual Studio Code Extensions
