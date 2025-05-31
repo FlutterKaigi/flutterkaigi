@@ -14,9 +14,28 @@
 
 なお、Flutterおよび関連するロゴは、Google LLCの商標です。FlutterKaigiは、Google LLCとの提携および、Google LLCが後援しているものでもないことに御留意下さい。
 
+
 ### FlutterKaigi ロゴ例
 
 <img title='logo_banner.png' alt='logo_banner' src='./assets/logo_banner.png' width="815" data-meta='{"width":1630,"height":371}'>
+
+
+### アイソレーションエリア
+下記はアイソレーションエリアです。 
+
+このエリア内には、他のデザイン要素や文字などを極力配置しないようにしてください。
+
+<img title='logo_isolation_area.png' alt='logo_isolation_area' src='./assets/logo-guideline/logo_ isolation_area.png' width="815" data-meta='{"width":1630,"height":371}'>
+
+### 禁止事項
+ロゴ画像を下記のように扱うことはNGです。 
+
+ここに記載されている内容以外にもFlutterKaigiが不適切と判断した場合は、使用中止を求める場合があります。
+
+<img title='logo_ng_list.png' alt='logo_ng_list' src='./assets/logo-guideline/logo_ng_list.png' width="815" data-meta='{"width":1630,"height":371}'>
+
+
+
 
 ### その他、連絡事項
 
