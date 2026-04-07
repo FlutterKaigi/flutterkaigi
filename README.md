@@ -19,5 +19,5 @@ All following written by Japanese are available. Please take a moment to read th
 - [Privacy Policy](./Privacy-Policy.ja.html) / [English](./Privacy-Policy.html)
 - [Exclusion of Anti-Social Forces](./Exclusion-of-Anti-Social-Forces.ja.html) / [English](./Exclusion-of-Anti-Social-Forces.html)
 - [Terms for Join](./Terms-for-Join.ja.html)
-- [Logo Usage Guidelines](./Logo-Guidelines.ja.html)
-- [Related Event Guidelines](./Event-Guidelines.ja.html)
+- [Logo Usage Guidelines](./Logo-Guidelines.ja.html) / [English](./Logo-Guidelines.html)
+- [Related Event Guidelines](./Event-Guidelines.ja.html) / [English](./Event-Guidelines.html)
