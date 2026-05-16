@@ -7,5 +7,5 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 include:
-  - _redirect
+  - _redirects
 encoding: utf-8
